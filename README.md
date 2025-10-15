@@ -45,5 +45,3 @@ I deployed the application using Vercel, which provides a seamless and fast host
 Throughout the development process, my focus was on simplicity, functionality, and performance. The Smart Recipe Generator represents how everyday challenges—like deciding what to cook—can be solved creatively using smart web tools. It’s a small but practical example of how intelligent design can make life easier while promoting sustainable habits in the kitchen.
 
 ---
-
-Would you like me to also make it sound a bit **more technical** (for example, mentioning frameworks like React, Node, or API usage) — or keep it **general and beginner-friendly** like above for academic submission?
