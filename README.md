@@ -1,6 +1,6 @@
 # Smart Recipe Generator 🍳
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/parththelosercoder-1816s-projects/v0-smart-recipe-generator)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://parth-smart-recipe-generator.vercel.app/)
 
 ## Overview
 
@@ -34,7 +34,7 @@ Source code available at:
 
 ---
 
-### 🧠 Approach (200 words)
+### 🧠 Approach
 
 The Smart Recipe Generator was built with the goal of simplifying daily cooking decisions by using technology to generate recipes based on ingredients users already have. The main idea was to help reduce food waste and make cooking more creative and convenient. Users simply input their available ingredients, and the system suggests possible dishes along with brief cooking instructions.
 
