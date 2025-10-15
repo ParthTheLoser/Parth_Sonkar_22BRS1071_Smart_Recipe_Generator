@@ -24,7 +24,7 @@ Live at:
 ## Repository
 
 Source code available at:  
-👉 **[https://github.com/parththelosercoder/Smart-Recipe-Generator](https://github.com/parththelosercoder/Smart-Recipe-Generator)**  
+👉 **[https://github.com/parththeloser/smart-recipe-generator](https://github.com/parththeloser/smart-recipe-generator)**  
 
 ## How It Works
 
